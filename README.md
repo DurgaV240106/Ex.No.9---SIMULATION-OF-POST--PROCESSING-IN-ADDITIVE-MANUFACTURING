@@ -1,6 +1,6 @@
 # Ex.No.  - SIMULATION OF POST PROCESSING IN ADDITIVE MANUFACTURING
 
-### DATE: 
+### DATE: 05-05-2024
 
 ## AIM: 
 ### To simulate the post processing of 3d printed parts via support Removal, UV Curing & Heat Treatment.
@@ -46,9 +46,13 @@
 ![123_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/2801d001-e6cd-4b6c-9d5f-712067d3bc3c)
 
 ## Output:
+![Screenshot 2024-05-05 221400](https://github.com/DurgaV240106/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/144870878/0184df48-e1ea-439b-a999-ddd8c35948d2)
+![Screenshot 2024-05-05 221425](https://github.com/DurgaV240106/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/144870878/3d7f1255-9b5e-4b56-baab-b57d575efb46)
+![Screenshot 2024-05-05 221516](https://github.com/DurgaV240106/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/144870878/72b8415d-2f1c-4a4a-9e17-60718d95bef5)
 
-### Name:
-### Register Number:
+
+### Name:DURGA V
+### Register Number:212223230052
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
